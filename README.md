@@ -1,179 +1,119 @@
 # 👋 Hi, I'm Arvind Mishra
 
-### Senior PHP / Laravel Engineer | Backend & Enterprise Systems
+### Senior PHP / Laravel Engineer | Backend Architecture | Enterprise Systems | AI-Assisted Development
 
-I’m a software engineer with **12+ years of experience** building scalable web applications, enterprise platforms, APIs, authentication systems, LMS/SCORM solutions, and distributed background-processing systems.
+I'm a software engineer with **12+ years of experience** building scalable
+web applications, enterprise platforms, APIs, authentication systems,
+LMS/SCORM solutions, distributed processing systems and cloud-based
+applications.
 
-My primary expertise is in **PHP, Laravel, MySQL, JavaScript, AWS, Azure AD/SSO and enterprise integrations**.
+Over the past year, I have also been actively incorporating **AI into my
+software engineering workflow** — including AI-assisted coding, prompt
+engineering, debugging, technical research, architecture exploration,
+code optimization and developer productivity.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 💻 12+ years of software development experience
-* 🚀 Backend development with **PHP & Laravel**
-* 🏗️ Designing scalable **REST APIs and enterprise applications**
-* ☁️ AWS: S3, CloudFront, RDS and infrastructure optimization
-* 🔐 Azure AD, SAML, SSO, ADFS & enterprise authentication
-* 🎓 SCORM / LMS / eLearning platform development
-* ⚡ Queue processing, Beanstalkd, Supervisor & background jobs
-* 🗄️ MySQL / MariaDB database design and optimization
-* 📈 Application performance, caching and query optimization
-* 🐳 Docker & modern development environments
-* 🟢 Vue.js / JavaScript frontend integration
-* 🔄 Third-party API and enterprise system integrations
+- 💻 12+ years of software development experience
+- 🚀 Strong experience with PHP and Laravel
+- 🏗️ Backend architecture and enterprise application development
+- 🔌 REST API design and third-party integrations
+- ☁️ AWS cloud services and infrastructure
+- 🔐 Azure AD / Microsoft Entra ID / SSO / SAML / ADFS
+- 🎓 SCORM 1.2 / LMS / eLearning platforms
+- ⚡ Queue processing, background jobs and distributed workloads
+- 🗄️ MySQL / MariaDB database design and optimization
+- 🚀 Redis, caching and performance optimization
+- 📦 Docker, Nginx and Linux-based deployments
+- 🟢 JavaScript and Vue.js integration
+- 🔄 Webhooks and enterprise system integrations
+- 🤖 AI-assisted software development and prompt engineering
+- 🔍 AI-assisted technical research and problem solving
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Backend
+## Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Frontend
+## Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat\&logo=vuedotjs\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Database & Caching
+## Database & Caching
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### Cloud & DevOps
+## Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat\&logo=nginx\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Enterprise Integration
+## Enterprise Integration
 
-* Microsoft Graph API
-* Azure AD / Entra ID
-* SAML / SSO
-* ADFS
-* SCORM 1.2
-* Mailgun / SendGrid
-* REST APIs
-* Webhooks
-
----
-
-## 🚀 Featured Projects
-
-### 🔗 URL Shortener API
-
-A scalable URL shortening service built with Laravel.
-
-**Focus:** REST API · Redis · Caching · Rate Limiting · Analytics
+- Microsoft Graph API
+- Microsoft Entra ID / Azure AD
+- SAML / SSO
+- ADFS
+- OAuth 2.0
+- SCORM 1.2
+- REST APIs
+- Webhooks
+- Mailgun
+- SendGrid
 
 ---
 
-### ⚡ Laravel Queue Processing Engine
+# 🤖 AI & Modern Software Engineering
 
-Background job processing system demonstrating scalable queue architecture.
+Over the past year, I have been actively using AI as part of my
+software engineering workflow.
 
-**Focus:** Laravel Queues · Redis/Beanstalkd · Supervisor · Retry Handling · Failed Jobs
+### AI-Assisted Development
 
----
+- 🤖 AI-assisted coding and implementation
+- ✍️ Prompt engineering for software development
+- 🧠 AI-assisted debugging and root-cause analysis
+- 🏗️ AI-assisted architecture and solution design
+- 🔍 Technical research and technology exploration
+- ⚡ Code generation, refactoring and optimization
+- 🧪 Test case and test scenario generation
+- 📚 Documentation generation and improvement
+- 🔄 Codebase analysis and modernization
+- 🚀 Developer productivity and workflow automation
+- 🧩 Exploring AI agents and AI-powered development workflows
+- 💡 Researching practical applications of LLMs in software engineering
 
-### 🔐 Enterprise SSO Demo
-
-Enterprise authentication system demonstrating SSO integration.
-
-**Focus:** Laravel · SAML · Azure AD · ADFS · Role-Based Access
-
----
-
-### 👥 Microsoft Graph Directory Sync
-
-Service for synchronizing users and groups from Microsoft Entra ID.
-
-**Focus:** Microsoft Graph API · OAuth · Pagination · Delta Sync · Queue Processing
-
----
-
-### 🎓 SCORM Learning Tracker
-
-SCORM 1.2 tracking service for storing learner progress and completion state.
-
-**Focus:** SCORM · JavaScript · Laravel APIs · Progress Tracking · LMS Integration
-
----
-
-### ☁️ S3 File Management API
-
-Secure file upload and delivery service using AWS S3.
-
-**Focus:** AWS S3 · Signed URLs · CloudFront · Laravel · Access Control
-
----
-
-## 🏗️ Architecture & Engineering Interests
-
-I enjoy working on systems involving:
+### My AI Development Workflow
 
 ```text
-High Traffic Applications
+Requirement / Problem
         ↓
-Load Balancing
+Research & Exploration
         ↓
-Laravel API Layer
+Prompt Engineering
         ↓
-Redis / Queue
+AI-assisted Solution Design
         ↓
-Background Workers
+Implementation
         ↓
-MySQL / AWS RDS
+Testing & Validation
         ↓
-S3 / CloudFront
-```
-
-I’m particularly interested in:
-
-* Distributed systems
-* Backend architecture
-* API design
-* Queue-based processing
-* Database optimization
-* Cloud architecture
-* Enterprise authentication
-* Application scalability
-* System integration
-
----
-
-## 📚 Currently Exploring
-
-* Python
-* FastAPI
-* RabbitMQ
-* Next.js
-* Modern Laravel Architecture
-* Distributed Systems
-* Cloud-native applications
-* AI-assisted development
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in discussing:
-
-* Backend architecture
-* Laravel / PHP
-* Enterprise applications
-* AWS
-* SSO / Azure AD
-* LMS / SCORM
-* System design
-* Performance optimization
-* SaaS architecture
-
----
-
-⭐ Feel free to explore my repositories and follow along as I build and experiment with different technologies.
+Code Review
+        ↓
+Optimization
